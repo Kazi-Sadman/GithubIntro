@@ -7,3 +7,5 @@ Carrots
 Cereal
 komla
 Mojo
+Cucumbers
+Capsicum
